@@ -1,0 +1,16 @@
+.container {
+    width: 300px;
+    margin: 20px 20px;
+}
+input{
+    margin:10px;
+    padding:5px;
+    font-size:20px;
+    border-radius: 5px;
+    background-color: bisque;
+    border: none;
+}
+p{
+    margin:20px;
+    font-size:20px;
+}
